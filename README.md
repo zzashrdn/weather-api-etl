@@ -1,4 +1,4 @@
-# Weather API ETL (Open-Meteo) — Portfolio Project
+# Weather API ETL (Open-Meteo), Portfolio Project
 
 A mini ETL pipeline that extracts hourly weather data from the Open-Meteo API, archives raw JSON, transforms it into a clean tabular dataset, applies data quality checks, and loads results into a SQLite database.
 
